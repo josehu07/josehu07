@@ -15,11 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| My GitHub Stats | Top Languages |
-| :---: | :---: |
-| [![GitHub profile stats](https://github-readme-stats.vercel.app/api?username=josehu07&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) | [![Github profile top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josehu07&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) |
-
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=josehu07&count_private=true&show_icons=true&theme=gruvbox" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josehu07&layout=compact&theme=gruvbox" />
+<p float="middle">
+  <img src="https://github-readme-stats.vercel.app/api?username=josehu07&count_private=true&show_icons=true&theme=gruvbox" width="%60" />
+  &nbsp; &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josehu07&layout=compact&theme=gruvbox" width="%32" />
 </p>
