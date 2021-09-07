@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 -->
 
 <div style="display: table;">
-  <div style="display: table-cell; vertical-align: middle;">
-    <img src="https://github-readme-stats.vercel.app/api?username=josehu07&count_private=true&show_icons=true&theme=gruvbox" alt="Profile stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josehu07&layout=compact&theme=gruvbox" alt="Top languages">
+  <div style="display: table-cell; vertical-align: middle; width=100%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=josehu07&count_private=true&show_icons=true&theme=gruvbox" alt="Profile stats" width="480px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josehu07&layout=compact&theme=gruvbox" alt="Top languages" width="340px">
   </div>
 </div>
 
