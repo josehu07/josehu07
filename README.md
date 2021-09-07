@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, welcome!
 
 <!--
 **josehu07/josehu07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![GitHub profile stats](https://github-readme-stats.vercel.app/api?username=josehu07&count_private=true&show_icons=true&theme=gruvbox)
+
+My top languages: ![Github profile top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josehu07&layout=compact)
