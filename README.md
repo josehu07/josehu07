@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=josehu07&count_private=true&show_icons=true&theme=gruvbox" width="300px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=josehu07&count_private=true&show_icons=true&theme=gruvbox" width="500px" />
   &nbsp; &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josehu07&layout=compact&theme=gruvbox" width="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josehu07&layout=compact&theme=gruvbox" width="280px" />
 </p>
