@@ -1,6 +1,6 @@
 ### Hi there 👋, welcome!
 
-Check out my personal homepage at [https://josehu.com](https://josehu.com) 😎
+Check out my personal homepage at [https://josehu.com](https://josehu.com) / [https://guanzhou.hu](https://guanzhou.hu) 😎
 
 <!--
 **josehu07/josehu07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
